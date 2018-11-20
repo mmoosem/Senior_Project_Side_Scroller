@@ -1,0 +1,13 @@
+{
+    "time": 31.6562557220459,
+    "maxHealth": 100,
+    "health": 100,
+    "point": 0,
+    "x": 144.89999389648438,
+    "y": 119.0999984741211,
+    "deaths": 0,
+    "shoot": false,
+    "dash": false,
+    "wallJump": false,
+    "doubleJump": false
+}
